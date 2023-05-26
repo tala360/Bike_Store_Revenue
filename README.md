@@ -1,6 +1,6 @@
-# Bike Store Revenue Analysis
+# Bike Stores Revenue Analysis
 ## Project Description </br>
-Bike Store is a sample dataset that contains information on different store names, locations, etc.</br>
+Bike Stores is a sample dataset that contains information on different store names, locations, etc.</br>
 I used this opportunity to develop a revenue dashboard. </br>
 
 # Tools used
